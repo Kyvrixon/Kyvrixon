@@ -3,9 +3,9 @@
   <p>Just your average guy, doing cool guy stuff</p>
   
   <p>
-    <a href="https://dreamwxve.dev">Portfolio</a>
     ⌁
-    <a href="https://status.dreamwxve.dev">Status</a>
+    <a href="https://kyvrixon.dev">Portfolio</a>
+    ⌁
   </p>
     
   <a href="https://discord.gg/invite/tsukiyo-1125196330646638592" target="_blank">
